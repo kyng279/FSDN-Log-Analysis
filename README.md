@@ -19,7 +19,7 @@ Tables: Articles, Authors, Log
 
 Views
 ==
-dailyErrors: table containing each day and the percentage of errors per day
+dailyErrors: dispalys each day and the percentage of errors per day
 
 Column      |  Type   | Modifiers  
 date            | date    |  
