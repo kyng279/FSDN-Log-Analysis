@@ -1,0 +1,18 @@
+#!/usr/bin/python3
+import LogAnalysis as lax
+print()
+print("-----------------------------------------------------------------")
+print("                        Log Analysis Report")
+print("-----------------------------------------------------------------")
+print("The three most popular articles of all time are:")
+lax.output_top_articles()
+print()
+print("The most popular authors of all time are:")
+lax.output_top_authors()
+print()
+print("The days where more than 1% of all HTTP requests lead to errors:")
+lax.output_high_error_days()
+print()
+print("-----------------------------------------------------------------")
+print("                         End of report")
+print("-----------------------------------------------------------------")
