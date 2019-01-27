@@ -22,7 +22,6 @@ Views
 dailyErrors: table containing each day and the percentage of errors per day
 
 Column      |  Type   | Modifiers
------------------+---------+-----------
  date            | date    |
  errorpercentage | numeric |
 
